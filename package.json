@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
    "publishConfig": {
-    "registry": "http://18.138.251.37:9980/mithuntechnologies/repository/nodejs-mss/"
+    "registry": "http://3.113.19.9:8081/repository/node/"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
